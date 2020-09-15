@@ -19,9 +19,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     TextView tvTasaMensual, tvCuotaMensual;
     Button btnCalcular;
 
-    // Declarar variables
-    int decimal;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
